@@ -1,0 +1,49 @@
+body {
+  background-color: #fdf0d1;
+}
+img {
+  width: 100%;
+  border-radius: 1%;
+}
+.container {
+  padding: 20px;
+  background-color: white;
+
+  width: 40%;
+  border-radius: 1%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.preperation {
+  background-color: #ffd0ec;
+  padding: 5px;
+  border-radius: 1%;
+}
+.preperation h3 {
+  color: #944e63;
+}
+h2 {
+  color: #b99470;
+}
+
+.data_values {
+  color: #b99470;
+  font-style: bold;
+  font-size: 20px;
+  /*margin-left:150px;*/
+}
+.cal {
+  margin-left: 150px;
+}
+.carb {
+  margin-left: 180px;
+}
+.pro {
+  margin-left: 170px;
+}
+.fat {
+  margin-left: 200px;
+}
+ul li {
+  width: 100%;
+}
